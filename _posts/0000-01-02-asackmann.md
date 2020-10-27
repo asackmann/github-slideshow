@@ -3,14 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 My text
-Use the left arrow to go back!
-
-
-asd
-
-
-asd
-
-asd
-asd
-asd
+Use the left arrow to go back!222
